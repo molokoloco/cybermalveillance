@@ -1,0 +1,10 @@
+# OS / éditeurs
+.DS_Store
+Thumbs.db
+*~
+
+# Google Drive (dossier synchronisé)
+desktop.ini
+*.tmp.drivedownload
+*.tmp.driveupload
+.tmp.drive*

@@ -1,0 +1,21 @@
+[submodule "PyrsistenceSniper"]
+	path = PyrsistenceSniper
+	url = https://github.com/Hexastrike/PyrsistenceSniper
+[submodule "hayabusa"]
+	path = hayabusa
+	url = https://github.com/Yamato-Security/hayabusa
+[submodule "chainsaw"]
+	path = chainsaw
+	url = https://github.com/WithSecureLabs/chainsaw
+[submodule "awesome-incident-response"]
+	path = awesome-incident-response
+	url = https://github.com/meirwah/awesome-incident-response
+[submodule "mvt"]
+	path = mvt
+	url = https://github.com/mvt-project/mvt
+[submodule "androidqf"]
+	path = androidqf
+	url = https://github.com/mvt-project/androidqf
+[submodule "systeminformer"]
+	path = systeminformer
+	url = https://github.com/winsiderss/systeminformer
